@@ -1,1 +1,2 @@
-# my1st-web
+# MyWebside
+My Static Webside
